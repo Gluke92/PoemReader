@@ -1,7 +1,7 @@
 # PoemReader
 Takes user input of a partly remembered line from "Lepanto" by G.K. Chesterton, and returns the full line. 
 
-#Running The Program
+# Running the program
 If you don't have python3 installed: https://www.python.org/downloads/
 
 Clone this repo.

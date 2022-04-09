@@ -1,5 +1,5 @@
 # PoemReader
-Takes user input of a partly remembered line from "Lepanto" by G.K. Chesterton, and returns the full line. 
+Takes user input of a partly remembered line from "Lepanto" by G.K. Chesterton, and returns the full line with the closest match to the input. 
 
 # Running the program
 If you don't have python3 installed: https://www.python.org/downloads/

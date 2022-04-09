@@ -10,7 +10,7 @@ Navigate to the directory where you cloned this file, and install these two pack
 1) pip3 install fuzzywuzzy
 2) pip3 install python-Levenshtein
 
-Run the program using "python3 main.py"
+Run the program using "python3 main.py" in the directory.
 
 
 
